@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="23" time="0">
+    <testcase classname="Free CRM Create Contacts" name="Free CRM Create a new contact scenario" time="0">
+        <system-out><![CDATA[Given user is already on login page.........................................skipped
+When title of login page is FREE CRM........................................skipped
+Then user enters "simr17070" and "Simran12345"..............................skipped
+Then user clicks on login button............................................skipped
+Then user is on homepage....................................................skipped
+Then user moves to new contacts page........................................skipped
+Then user enters contacts details "simran" and "singh" and "manager"........skipped
+Then close the browser......................................................skipped
+]]></system-out>
+    </testcase>
+    <testcase classname="Free CRM Create Contacts" name="Free CRM Create a new contact scenario 2" time="0">
+        <system-out><![CDATA[Given user is already on login page.........................................skipped
+When title of login page is FREE CRM........................................skipped
+Then user enters "simr17070" and "Simran12345"..............................skipped
+Then user clicks on login button............................................skipped
+Then user is on homepage....................................................skipped
+Then user moves to new contacts page........................................skipped
+Then user enters contacts details "joy" and "das" and "employee"............skipped
+Then close the browser......................................................skipped
+]]></system-out>
+    </testcase>
+    <testcase classname="Deal Data Creation" name="Free CRM Login Test Scenario" time="0">
+        <system-out><![CDATA[Given user is already on login page.........................................skipped
+When title of login page is FREE CRM........................................skipped
+Then user enters username and password......................................skipped
+Then user clicks on login button............................................skipped
+Then user is on homepage....................................................skipped
+Then user moves to new deal page............................................skipped
+Then user enters deal details...............................................skipped
+Then close the browser......................................................skipped
+]]></system-out>
+    </testcase>
+    <testcase classname="Deal Data Creation" name="Free CRM Login Test Scenario" time="0">
+        <system-out><![CDATA[Given user is already on login page.........................................skipped
+When title of login page is FREE CRM........................................skipped
+Then user enters his username and password..................................skipped
+Then user clicks on login button............................................skipped
+Then user is on homepage....................................................skipped
+Then user moves to a new deal page..........................................skipped
+Then user fills deal details................................................skipped
+Then close the browser......................................................skipped
+]]></system-out>
+    </testcase>
+    <testcase classname="Free CRM app test" name="free crm create deal test" time="0">
+        <system-out><![CDATA[Given user is on deal page..................................................skipped
+When user fills the deals form..............................................skipped
+Then deal is created........................................................skipped
+]]></system-out>
+    </testcase>
+    <testcase classname="Free CRM app test" name="free crm create contact test" time="0">
+        <system-out><![CDATA[Given user is on contact page...............................................skipped
+When user fills the contact form............................................skipped
+Then contact is created.....................................................skipped
+]]></system-out>
+    </testcase>
+    <testcase classname="Free CRM Login Feature" name="Free CRM Login Test Scenario" time="0">
+        <system-out><![CDATA[Given user is already on login page.........................................skipped
+When title of login page is FREE CRM........................................skipped
+Then user enters "simr17070" and "Simran12345"..............................skipped
+Then user clicks on login button............................................skipped
+Then user is on homepage....................................................skipped
+Then close the browser......................................................skipped
+]]></system-out>
+    </testcase>
+    <testcase classname="Free CRM Login Feature" name="Free CRM Login Test Scenario 2" time="0">
+        <system-out><![CDATA[Given user is already on login page.........................................skipped
+When title of login page is FREE CRM........................................skipped
+Then user enters "simr1707" and "Simran67890"...............................skipped
+Then user clicks on login button............................................skipped
+Then user is on homepage....................................................skipped
+Then close the browser......................................................skipped
+]]></system-out>
+    </testcase>
+    <testcase classname="Test Tagged Hooks" name="This is First test" time="0">
+        <system-out><![CDATA[Given this is the first step................................................skipped
+When this is the second step................................................skipped
+Then this is the third step.................................................skipped
+]]></system-out>
+    </testcase>
+    <testcase classname="Test Tagged Hooks" name="This is Second test" time="0">
+        <system-out><![CDATA[Given this is the first step................................................skipped
+When this is the second step................................................skipped
+Then this is the third step.................................................skipped
+]]></system-out>
+    </testcase>
+    <testcase classname="Test Tagged Hooks" name="This is Third test" time="0">
+        <system-out><![CDATA[Given this is the first step................................................skipped
+When this is the second step................................................skipped
+Then this is the third step.................................................skipped
+]]></system-out>
+    </testcase>
+    <testcase classname="Free CRM application testing" name="login with correct username and password" time="0">
+        <system-out><![CDATA[Given This is a valid login test............................................skipped
+]]></system-out>
+    </testcase>
+    <testcase classname="Free CRM application testing" name="login with correct username and password" time="0">
+        <system-out><![CDATA[Given This is a invalid login test..........................................skipped
+]]></system-out>
+    </testcase>
+    <testcase classname="Free CRM application testing" name="Create a contact" time="0">
+        <system-out><![CDATA[Given This is a contact test case...........................................skipped
+]]></system-out>
+    </testcase>
+    <testcase classname="Free CRM application testing" name="Create a deal" time="0">
+        <system-out><![CDATA[Given This is a deal test case..............................................skipped
+]]></system-out>
+    </testcase>
+    <testcase classname="Free CRM application testing" name="Create a task" time="0">
+        <system-out><![CDATA[Given This is a task test case..............................................skipped
+]]></system-out>
+    </testcase>
+    <testcase classname="Free CRM application testing" name="Create a case" time="0">
+        <system-out><![CDATA[Given This is a case test case..............................................skipped
+]]></system-out>
+    </testcase>
+    <testcase classname="Free CRM application testing" name="verify left panels links" time="0">
+        <system-out><![CDATA[Given clicking on left panel links..........................................skipped
+]]></system-out>
+    </testcase>
+    <testcase classname="Free CRM application testing" name="search a deal" time="0">
+        <system-out><![CDATA[Given This is a search deal test............................................skipped
+]]></system-out>
+    </testcase>
+    <testcase classname="Free CRM application testing" name="search a case" time="0">
+        <system-out><![CDATA[Given This is a search case test............................................skipped
+]]></system-out>
+    </testcase>
+    <testcase classname="Free CRM application testing" name="search a contact" time="0">
+        <system-out><![CDATA[Given This is a search contact test.........................................skipped
+]]></system-out>
+    </testcase>
+    <testcase classname="Free CRM application testing" name="search a call" time="0">
+        <system-out><![CDATA[Given This is a search call test............................................skipped
+]]></system-out>
+    </testcase>
+    <testcase classname="Free CRM application testing" name="search a email" time="0">
+        <system-out><![CDATA[Given This is a search email test...........................................skipped
+]]></system-out>
+    </testcase>
+</testsuite>
